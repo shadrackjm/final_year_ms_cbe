@@ -1,0 +1,95 @@
+FYPMS - completion checkup
+A. PROJECT COORDINATOR
+-------------
+1.Dashboard - complete.
+________________________
+2.student (a).import - complete.
+	  (b).export - complete.
+	  (c).register student - complete.
+	  (d).edit student details - complete.
+	  (e).delete student - complete.
+	  (f).search student - complete.
+	  (g).paginate - complete.
+______________________________________________
+3.Supervisor (a).import - complete.
+	     (b).export - complete.
+	     (c).register supervisor- complete.
+	     (d).edit supervisor - complete.
+	     (e).delete supervisor - complete.
+	     (f).search supervisor - complete.
+	     (g).paginate - complete.
+_______________________________________________
+4.Project Groups (a).import - complete (import groups tabl first).
+		 (b).add member - complete.
+		 (c).shift member - complete.
+		 (d).assign supervisor - complete.
+__________________________________________________________________________________
+5.Project Titles (a)accept + remark - complete.
+		 (b)reject + remark - complete.
+		 (c)trash(rejected titles records) - complete.
+______________________________________________________________
+6.Project Proposals (a).download & review - complete.
+____________________________________________________
+7.Manage Phases (a).register new - complete.
+		(b).edit - complete.
+		(c).delete - complete.
+___________________________________________
+8.Manage Sub-Phases (a).register new - complete.
+		    (b).edit - complete.
+		    (c).delete - complete.
+_______________________________________________
+9.Manage Presentations (a).enable - complete.
+		       (b).disable - complete.
+		       (c).disable all - complete.
+	 	       (d).mark completed - complete.
+____________________________________________________
+10.Manage Announcement (a).publish new - complete.
+		       (b).edit - complete.
+		       (c).delete - complete.
+_________________________________________________
+REPORTS
+_______
+
+11.Project Title Report - complete (export excel & search report by academic year).
+12.Group Report - complete(export excel & search report by academic year).
+13.Group - Supervisor Report - complete(export excel & search report by academic year).
+14.Project Phase - Subphases Report - complete(export excel).
+15.Each Presentation Report - complete(export excel).
+16.Generated Final Project Student Marks Report - pending(export excel) average calculation is not accurate in final_Presentation table..
+
+B.STUDENT
+---------
+
+1.Home Page - complete.
+
+2.Create New Group - complete.
+       -->checkup before create group - group number exist.
+			      	      - if student have group already.
+
+3.request to join a group from exist - complete.
+
+4.My Group - complete.
+
+5.Project Title - complete.
+
+6.Project Proposals - complete.
+
+7.Group Supervisor - complete.
+
+8.Announcement - complete.
+
+9.Project Titles - Done Before - complete.
+
+C.PROJECT - SUPERVISOR
+----------------------
+1.Home Page  - complete.
+
+2.Assigned Groups - complete.
+
+3.Assess Group - 80% complete.(assessed group btn should be disabled to supervisor assessed it.)
+
+4.Edit Profile Picture - pending..
+
+5.change password - pending..
+
+6.change msg from repeat the same group assessment.. - to already you have assessed this group Presentation.

@@ -1,0 +1,3 @@
+Title - student post if group is complete.
+group - msg close jquery
+Shift group member -  even not complete.
